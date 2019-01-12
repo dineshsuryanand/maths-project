@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547233303 source:e:\educational\newton forward\newton_forward\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1547234604 source:e:\educational\maths project\newton forward\newton_forward\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
