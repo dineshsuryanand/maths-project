@@ -55,7 +55,7 @@ int main()
     }
 
     //print out the result.
-    printf("\n y[%f] = %f \n",X,s);
+    printf("\n Result : y[%f] = %f \n",X,s);
 
     return 0;
 
